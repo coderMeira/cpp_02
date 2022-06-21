@@ -1,4 +1,3 @@
-![Module 02 sheet](https://github.com/coderMeira/cpp_01/blob/master/subject_02/subject_02-00.jpg)
 ![Module 02 sheet](https://github.com/coderMeira/cpp_02/blob/master/subject_02/subject_02-01.jpg)
 ![Module 02 sheet](https://github.com/coderMeira/cpp_02/blob/master/subject_02/subject_02-02.jpg)
 ![Module 02 sheet](https://github.com/coderMeira/cpp_02/blob/master/subject_02/subject_02-03.jpg)
